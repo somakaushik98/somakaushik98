@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sai-kaushik-portfolio.onrender.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@somakaushik98](https://medium.com/@somakaushik98)
+- 📝 I regularly write articles on [medium](https://medium.com/@somakaushik98)
 
 - 💬 Ask me about **AI , ML , NLP and Computer Vision**
 
