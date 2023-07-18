@@ -1,4 +1,4 @@
-<img src = "http://mograph.video/Circuit1080](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
+<img align="center" src="http://mograph.video/Circuit1080](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
 <h1 align="center">Hi 👋, I'm Sai Kaushik Soma</h1>
 <h3 align="center">AI Innovator: Revolutionizing Intelligent Applications</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
