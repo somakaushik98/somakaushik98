@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Kaushik Soma</h1>
 <h3 align="center">AI Innovator: Revolutionizing Intelligent Applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somakaushik98" alt="somakaushik98" /></a> </p>
-
 - 🔭 I’m currently working on **Large Language Models**
 
 - 🌱 I’m currently learning **MLOps**
@@ -30,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somakaushik98&show_icons=true&locale=en&layout=compact" alt="somakaushik98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somakaushik98&show_icons=true&locale=en" alt="somakaushik98" /></p>
-
