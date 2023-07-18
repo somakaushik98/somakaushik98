@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/7VzgMsB6FLCilwS30v))]
+<img align="center" alt="Coding" width="800" src="https://giphy.com/embed/7VzgMsB6FLCilwS30v">
 <h1 align="center">Hi 👋, I'm Sai Kaushik Soma</h1>
 <h3 align="center">AI Innovator: Revolutionizing Intelligent Applications</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
