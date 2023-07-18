@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MLOps**
 
-- 👨‍💻 All of my projects are available at [https://sai-kaushik-portfolio.onrender.com/](https://sai-kaushik-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sai-kaushik-portfolio.onrender.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@somakaushik98](https://medium.com/@somakaushik98)
 
