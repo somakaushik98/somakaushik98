@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://giphy.com/embed/7VzgMsB6FLCilwS30v">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Sai Kaushik Soma</h1>
 <h3 align="center">AI Innovator: Revolutionizing Intelligent Applications</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
