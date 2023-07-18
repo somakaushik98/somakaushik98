@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Kaushik Soma</h1>
 <h3 align="center">AI Innovator: Revolutionizing Intelligent Applications</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&psig=AOvVaw2Iyv3_eUL5qOJnGX3M5NDW&ust=1689766116417000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCJjP_LqTmIADFQAAAAAdAAAAABAS">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 - 🔭 I’m currently working on **Large Language Models**
 
 - 🌱 I’m currently learning **MLOps**
