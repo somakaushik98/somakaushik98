@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **Large Language Models**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Generative AI and Large Language Model**
 
 
 - 📝 I regularly write articles on [medium](https://medium.com/@somakaushik98)
